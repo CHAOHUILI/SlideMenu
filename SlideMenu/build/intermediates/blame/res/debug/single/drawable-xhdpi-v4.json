@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\headd.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\SlideMenu\\src\\main\\res\\drawable-xhdpi\\headd.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\qQSlideMenu74\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
